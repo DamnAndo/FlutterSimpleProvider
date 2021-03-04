@@ -1,0 +1,7 @@
+
+State Management Provider Concept
+
+- Model -> Counter()
+- Change Notifier -> Counter()
+- Change Notifier provider -> MyApp()
+- Consumer -> CounterApp()
